@@ -22,7 +22,7 @@ void loop() {
   {
       Serial.println("Robot is working");
       powerMotor();
-  } els}
+  }
 
 //this function terminates and returns true when the user presses the button successfully
 //since the robot is unconfortable, the user might have to press the button multiples 
